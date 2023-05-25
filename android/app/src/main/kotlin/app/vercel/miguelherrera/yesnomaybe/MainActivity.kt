@@ -1,4 +1,4 @@
-package com.example.yes_no_app
+package app.vercel.miguelherrera.yesnomaybe
 
 import io.flutter.embedding.android.FlutterActivity
 
